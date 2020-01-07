@@ -1,11 +1,12 @@
-.card {
-    border: solid 2px #f704a1;
-    max-width: 200px;
-    display: flex;
-    flex-direction: column;
-}
-
-.card-img-top {
-    max-width: 180px;
-    padding-top: 5%;
-}
+.Card{
+    flex: 1
+  }
+  
+  .Card:hover{
+    cursor: pointer;
+  }
+  
+  .Card img{
+    width: 100px;
+    height: 100px;
+  }
