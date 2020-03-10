@@ -1,4 +1,7 @@
-.App {
-  text-align: center;
-  padding: 50px;
+.memory {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  margin: auto;
+  user-select: none;
 }
